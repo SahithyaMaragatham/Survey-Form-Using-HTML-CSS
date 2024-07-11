@@ -1,0 +1,36 @@
+.box{
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+input[type="text"]{
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(235, 229, 229);
+    border: none;
+    margin-bottom: 10px;
+}
+.checked {
+    color: rgb(243, 162, 11);
+  }
+.align{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+button{
+    width: 100%;
+    border: none;
+    color: white;
+    background-color: rgb(242, 119, 74);
+    padding: 8px;
+    margin:10px 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
